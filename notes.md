@@ -1,22 +1,22 @@
 #Procesas
 
-pradine failu struktura
+[]pradine failu struktura
     - index.html
     - .gitignore
-paviesinti projekta per Github Pages (gausim URL)
-#README.md
+[]paviesinti projekta per Github Pages (gausim URL)
+[]#README.md
     -skirta aprasyti kas, kair kodel daro
     -iterpti nuoroda i daroma dizaina
     -itepti nuordoa, kur tas musu kodas gali buti pamatytas
-atlikti dizaino analize
-surasyti HTML
-iskirpti nuotraukas ir jas panaudoti
+[]atlikti dizaino analize
+[]surasyti HTML
+[]iskirpti nuotraukas ir jas panaudoti
     -panaudoti realityvu kelia
-aprasyti stilius
+[]aprasyti stilius
 
 #Pasiskaitymai
 
-apie cia naudojama rasymo sintakse (md - markdown)
+[]apie cia naudojama rasymo sintakse (md - markdown)
 
 #Paint.net naudojimas
 
