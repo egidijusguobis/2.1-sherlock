@@ -1,4 +1,4 @@
-#Procesas
+# Procesas
 
 - []pradine failu struktura
     - index.html
@@ -14,9 +14,9 @@
     -panaudoti realityvu kelia
 - []aprasyti stilius
 
-#Pasiskaitymai
+# Pasiskaitymai
 
 - []apie cia naudojama rasymo sintakse (md - markdown)
 
-#Paint.net naudojimas
+# Paint.net naudojimas
 
